@@ -1,0 +1,28 @@
+.head{
+    display: flex;
+    justify-content: space-around;
+}
+.inhead{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.part-1{
+    display: flex;
+    justify-content: space-between;
+}
+.part-2{
+    display: flex;
+    justify-content: space-around;
+}
+.part-3{
+    justify-content: space-around;
+}
+
+
+
+.footer{
+    background-color: #1F2937;
+    color: white;
+}
